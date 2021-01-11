@@ -1,0 +1,15 @@
+{
+    "ProfileTitle": "Профиль",
+    "Name": "Имя",
+    "Meassega_EnterName": "Введите имя",
+    "Update": "Обновить",
+    "Menu_Bill": "Счет",
+    "Detail-Record_Detail": "Запись",
+    "Menu_History": "История",
+    "Menu_Planning": "Планирование",
+    "Menu_Record": "Новая запись",
+    "Menu_Categories": "Категории",
+    "Login": "Авторизация",
+    "Register": "Регистрация",
+    "Logout": "Выйти"
+}
