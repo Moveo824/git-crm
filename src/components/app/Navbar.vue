@@ -9,7 +9,7 @@
         </div>
 
         <ul class="right hide-on-small-and-down">
-          <li class="li-component"> 
+          <li class="li-component">
             <a
                 class="dropdown-trigger black-text"
                 href="#"
